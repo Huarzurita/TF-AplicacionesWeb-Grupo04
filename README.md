@@ -1,10 +1,10 @@
 ![Logo Upc](https://www.upc.edu.pe/static/img/logo_upc_red.png "Logo upc")
 Universidad Peruana de Ciencias Aplicadas
 
-<div style="text-align: center;">
+<center>
 
 # Informe de Trabajo Final
-</div>
+</center>
 
 
 ### <center>Aplicaciones Web</center> 
@@ -249,19 +249,19 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe -->
 ## 4.6 Domain-Driven Software Architecture
 ### 4.6.1 Software Architecture Context Diagram
 En el presente Diagrama se detallan cómo interactúan los usuarios con nuestro sistema de software y con sistemas externos. Para este caso, con el servicio de correos de microsft Excahnge, Sistema de pasarela de pago y el Sistema de envío.
-![Context Diagram](/Recursos%20Informe/C4-Contexto.png)
+![Context Diagram](https://drive.google.com/uc?export=view&id=146aac_97Ue60ZSToXPMC235VZ3U32e3F)
 
 ### 4.6.2 Software Architecture Container Diagrams
 A continuación, se mostrará el diagrama de contenedores de nuestro sistema. Este artefacto es el segundo nivel del modelo C4 y presenta los componentes técnicos de manera más detallada, lo cual genera una ampliación en la visión de la arquitectura del software.
-![Container Diagram](/Recursos%20Informe/C4-Contenedores.png)
+![Container Diagram](https://drive.google.com/uc?export=view&id=1tK8x1Q4IleDw8uWsYTyveLi8jwLS6iaz)
 
 ### 4.6.3 Software Architecture Components Diagrams
 En esta sección se presentará el diagrama de componentes de nuestra arquitectura de software, en este se detallan los componentes de nuestros contendores, asimismo, se indican sus responsabilidades y los detalles de tecnología e implementación
-![Components Diagram](/Recursos%20Informe/C4-Componentes.png)
+![Components Diagram](https://drive.google.com/uc?export=view&id=1PTeAntz_Y2JCR5iR_wlvQlZElAcRupHy)
 
 ## 4.7 Software Object-Oriented Design
 ### 4.7.1 Class Diagrams
-![Class Diagram](/Recursos%20Informe/ClassDiagram.png)
+![Class Diagram](https://drive.google.com/uc?export=view&id=1WiUlKXrK67JIq0qKSv4UnXHSo6My4zD7)
 ### 4.7.2 Class Dictionary
 * User: Esta clase sera la clase padre de las clases "comprador" y "vendedor"se encargará de heredarles diversos métodos y atributos. Alguno de los atributos que les heredara son los de nombre, appelido, email y contraseña. De igual forma, les heredara los getter y setters de dichos atributos.
  
@@ -286,7 +286,7 @@ En esta sección se presentará el diagrama de componentes de nuestra arquitectu
 
 ## 4.8 Database Desing
 ### 4.8.1 Database Diagram
-![Database Desing](/Recursos%20Informe/DataBase%20Diagram.png)
+![Database Desing](https://drive.google.com/uc?export=view&id=1yzfic7SRYWVVJ-ZMBeMEFYADOTrAkp3j)
 ---
 ---
 ---
