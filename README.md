@@ -254,6 +254,7 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe -->
     <p align="center">
     <img src="https://drive.google.com/uc?export=view&id=1jbrG3lZiR5iGXTGp5JFBnnI63fqosskK" alt="Foto Leonardo">
     </p>
+    
     * *Ing. de Software*
     * **Acerca de:** Me considero una persona creativa,
     responsable y ordenada. Tengo experiencia trabajando en equipo, escucho las ideas de mis compañeros y me desempeño bien para el avance de los trabajos.
