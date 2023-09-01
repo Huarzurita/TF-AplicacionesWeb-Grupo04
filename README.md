@@ -251,7 +251,9 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe -->
     innovadoras para los proyectos en curso que vamos a
     mostrar.
 * Patrocinio Escalante, Leonardo Walt
-    ![foto leonardo](https://drive.google.com/uc?export=view&id=1jbrG3lZiR5iGXTGp5JFBnnI63fqosskK)
+    <p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1jbrG3lZiR5iGXTGp5JFBnnI63fqosskK" alt="Foto Leonardo">
+    </p>
     * *Ing. de Software*
     * **Acerca de:** Me considero una persona creativa,
     responsable y ordenada. Tengo experiencia trabajando en equipo, escucho las ideas de mis compañeros y me desempeño bien para el avance de los trabajos.
@@ -566,6 +568,203 @@ Link: [https://youtu.be/7rK2o9sNi1s](https://youtu.be/7rK2o9sNi1s)
 ---
 ---
 # CAPITULO 4: Product Desing
+## 4.1. Style Guidelines
+
+### 4.1.1. General Style Guidelines
+
+En consonancia con el enfoque de diseño de nuestra marca anterior, hemos establecido las siguientes pautas para mantener la coherencia visual y la identidad de la marca:
+
+**Historia de la Marca:**
+- **Misión:**
+Nuestra misión es desarrollar una plataforma que permita a cualquier tipo de individuo publicar su ropa y separarla según las circunstancias en las que se encuentre.
+- **Visión:**
+Nuestra visión es restablecernos como una empresa de renombre a nivel nacional y atraer a numerosos usuarios que utilicen nuestras plataformas como medio de venta de su ropa. Además, sería bueno ser reconocido por brindar un excelente servicio.
+
+**Paleta de Colores:**
+  - **Color Principal: RGB #0070f3**
+
+  <p align="center">
+    <img src="https://www.colorhexa.com/0070f3.png" alt="Color Principal" style="width: 100px; height: 100px;">
+  </p>
+
+  Elegimos este color basándonos en la psicología del color, que afirma que el azul celeste representa profesionalismo, honestidad e integridad. Estos son valores que queremos transmitir a nuestros usuarios para que se sientan seguros al realizar sus compras o ventas.
+  - **Color Secundario: RGB #7928CA**
+
+  <p align="center">
+    <img src="https://www.colorhexa.com/450e7b.png" alt="Color Secundario" style="width: 100px; height: 100px;">
+  </p>
+  
+  Debido a que contrasta efectivamente con nuestro color primario, decidimos usar este tono. La utilización de la herramienta Adobe Color nos permitió verificar que los colores se pueden distinguir claramente para cualquier tipo de daltonismo en este análisis.
+
+**Tipografía:**
+- **Tipo de letra:**
+Tomando como base la psicología de la tipografía, decidimos usar como tipo de letra a una perteneciente a la familia Sans Serif; es decir, una que no tiene serifas en sus letras. Esto debido a que son más fáciles de leer en entornos digitales.
+  - **Tipo de letra elegido: Hind**
+- **Espaciado:**
+En caso de espaciado nos basamos en las recomendaciones de especialistas en el diseño de interfaces. Sugieren que las líneas de los párrafos sean 1.5 veces el tamaño de la letra para que así los textos resulten más fáciles de leer. 
+  - **Tamaño de letra: 16px**
+  - **Interlineado: 24px**
+
+**Tono de Comunicación:** Baeza (2020) señala que antes de definir nuestro tono de comunicación, debemos de saber qué es lo que buscamos conseguir con nuestro público.
+- **¿Qué busca nuestra aplicación?**
+
+Nuestro producto busca facilitar la compra y/o venta de prendas de segunda mano de manera sencilla.
+- **¿Qué queremos conseguir con nuestro público?**
+
+Nuestro principal objetivo es hacer que nuestros usuarios se sientan cómodos con nuestra aplicación y que puedan confiar en nosotros, tomándonos como un compañero más
+- **Conclusión**
+
+Esto nos llevo a decidir que el tono que manejaremos sea casual y respetuoso al mismo tiempo.
+
+### 4.1.2. Web Style Guidelines
+
+Al desarrollar nuestro diseño web, nos basaremos en las siguientes pautas:
+
+- La interfaz mantendrá la estructura jerárquica establecida anteriormente, priorizando la comprensión y usabilidad.
+- Continuaremos utilizando el sistema de colores previo para mantener la coherencia en la marca.
+- Nuestro enfoque en la legibilidad se reflejará en la elección de la tipografía y el espaciado adecuado.
+- El diseño estará optimizado para navegadores web y asegurará una experiencia consistente en diferentes dispositivos.
+
+## 4.2. Information Architecture
+
+### 4.2.1. Organization Systems
+
+Nuestro sistema de organización se mantendrá en tres niveles:
+
+- **Organización Visual del Contenido:** Se conservará la forma jerárquica en el menú principal, permitiendo a los usuarios navegar de manera eficiente.
+- **Organización Secuencial:** El proceso de compra y venta se mantendrá como una secuencia lógica para guiar a los usuarios a través de las tareas.
+- **Organización Matricial:** La visualización de productos seguirá siendo organizada en función de las preferencias de los usuarios.
+
+### 4.2.2. Labeling Systems
+
+Las etiquetas existentes se mantendrán y seguirán desempeñando un papel crucial en la navegación y comprensión de la plataforma:
+
+- Etiqueta "Login": Acceso a la autenticación y registro.
+- Etiqueta "Menú Principal": Acceso a información relevante y productos recientes.
+- Etiqueta "Nosotros": Detalles sobre la startup, misión y visión.
+- Etiqueta "Comprar": Información de productos y carrito de compras.
+- Etiqueta "Servicios": Descripción de los servicios de la aplicación.
+- Etiqueta "Vender": Guía para publicar productos.
+- Etiqueta "Ayuda": Soporte y preguntas frecuentes.
+
+### 4.2.3. SEO Tags and Meta Tags
+
+Los elementos de SEO y las metaetiquetas se implementarán en las páginas según las mejores prácticas actuales para mejorar la visibilidad en los motores de búsqueda y optimizar la experiencia del usuario.
+
+### 4.2.4. Searching Systems
+
+Continuaremos utilizando una interfaz de búsqueda que permita a los usuarios buscar por categoría o nombre de producto. También se mantendrán los filtros para una búsqueda eficiente.
+
+### 4.2.5. Navigation Systems
+
+El sistema de navegación seguirá siendo sencillo y eficaz:
+
+- "Nosotros" proporcionará información detallada sobre el startup y el proyecto.
+- "Login" permitirá el acceso y registro de usuarios.
+- "Ver opiniones" mostrará las opiniones de los usuarios sobre la confiabilidad de la app.
+
+## 4.3. Landing Page UI Design
+
+### 4.3.1. Landing Page Wireframe
+
+Se elaborará un nuevo wireframe para la página de inicio, basado en la estructura existente y las pautas de diseño anteriores.
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1TYSJh9BJKNNeMC7khWGuEfjgvtm6prwr" alt="Landing Page Wireframe">
+  </p>
+
+### 4.3.2. Landing Page Mock-up
+
+Utilizando la nueva estructura del wireframe, se desarrollarán mock-ups que reflejen la apariencia visual de la página de inicio.
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1z--3ld47XIdUSyCPamNBGZCXeVqH0rB3" alt="Landing Page Mock-up">
+  </p>
+     
+## 4.4. Web Applications UX/UI Design
+
+### 4.4.1. Web Applications Wireframes
+
+Se generarán wireframes para las páginas clave de la aplicación web, siguiendo la estructura previamente establecida y teniendo en cuenta las nuevas funcionalidades.
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1g3ttHac15Y5-aG7OlWmq2feESQ_roSRT" alt="Web Applications Wireframes">
+  </p>
+  
+### 4.4.2. Web Applications Wireflow Diagrams
+
+Se crearán diagramas de flujo de usuario que describan cómo los usuarios interactuarán con las nuevas características y cómo se conectarán las páginas entre sí.
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1xu35ElVKwlVQ9wNkqxlWNxLZ2tMiXOAB" alt="Web Applications Wireflow Diagrams">
+  </p>
+  
+### 4.4.3. Web Applications Mock-ups
+
+Los mock-ups se diseñarán basados en los wireframes y diagramas de flujo para visualizar la experiencia completa del usuario en la aplicación web.
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1Xh4qNxCt6MzpMVOlu_1iBcpSDD7llaxe" alt="Web Applications Mock-ups">
+  </p>
+  
+### 4.4.4. Web Applications User Flow Diagrams
+
+Para garantizar una experiencia de usuario fluida y coherente en la aplicación web, hemos creado diagramas de flujo de usuario que representan los caminos que los usuarios seguirán al interactuar con diversas funciones y características. Estos diagramas de flujo describen cómo los usuarios navegarán a través de la aplicación para lograr sus objetivos. A continuación, se presentan algunos ejemplos clave:
+
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1x5-xOBoAhwX2wss5HMJHNhv-bX6t5HBu" alt="Web Applications User Flow Diagrams">
+  </p>
+  
+#### Compra de Producto:
+1. Usuario navega a la página principal.
+2. Usuario busca productos por categoría o realiza una búsqueda por nombre.
+3. Usuario selecciona un producto de interés.
+4. Usuario accede a la página de detalles del producto.
+5. Usuario agrega el producto al carrito de compras.
+6. Usuario procede al proceso de pago.
+7. Usuario completa la información de envío y pago.
+8. Usuario confirma la compra y recibe una confirmación.
+
+#### Publicación de Producto:
+1. Usuario inicia sesión en la aplicación.
+2. Usuario accede a la sección de venta.
+3. Usuario completa los detalles del producto a publicar.
+4. Usuario carga imágenes y proporciona descripción.
+5. Usuario establece precio y detalles de envío.
+6. Usuario confirma y publica el producto.
+
+## 4.5. Web Applications Prototyping
+
+#### Prototipo de Interfaz de Usuario (UI)
+
+Hemos desarrollado prototipos de interfaz de usuario para representar visualmente cómo se verán las diferentes pantallas y elementos de la aplicación web. Estos prototipos reflejan las pautas de diseño establecidas y muestran cómo los usuarios interactuarán con la aplicación. Aquí se presentan algunos ejemplos clave:
+
+**Página de Inicio:**
+En esta pantalla, los usuarios podrán acceder rápidamente a las distintas secciones de la aplicación, como "Nosotros", "Login" y "Ver opiniones".
+
+**Página de Detalles del Producto:**
+Los usuarios podrán explorar los detalles de un producto, ver imágenes, características y precios antes de decidir comprar.
+
+**Página de Publicación de Producto:**
+En esta pantalla, los usuarios podrán cargar imágenes, proporcionar descripciones y establecer el precio de los productos que deseen vender.
+
+#### Prototipo de Interacción (UX)
+
+Además de los prototipos de interfaz de usuario, hemos creado prototipos interactivos que muestran cómo los usuarios navegarán por la aplicación y realizarán acciones específicas. Estos prototipos permiten una comprensión más profunda de la experiencia del usuario y cómo las diferentes pantallas se conectan entre sí.
+
+**Ejemplo de Interacción: Proceso de Compra**
+1. Usuario navega a la página de inicio.
+2. Usuario explora categorías o realiza una búsqueda.
+3. Usuario selecciona un producto y accede a los detalles.
+4. Usuario agrega el producto al carrito.
+5. Usuario procede al proceso de pago y proporciona información necesaria.
+6. Usuario confirma la compra y recibe una confirmación.
+
+**Ejemplo de Interacción: Publicación de Producto**
+1. Usuario inicia sesión y accede a la sección de venta.
+2. Usuario completa los detalles del producto y carga imágenes.
+3. Usuario establece el precio y los detalles de envío.
+4. Usuario confirma la publicación del producto.
+
+**Enlace al Prototipo Interactivo: [RLS](https://www.figma.com/proto/wPRSTNp6BqviYyHUjHMbN2/RLS?type=design&node-id=1-3&t=YF2Jp5iEERrI1FEp-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3&show-proto-sidebar=1)**
+
+Estos prototipos interactivos nos permiten simular la experiencia del usuario de manera más realista y validar la usabilidad antes de avanzar en el desarrollo.
+
 ## 4.6 Domain-Driven Software Architecture
 ### 4.6.1 Software Architecture Context Diagram
 En el presente Diagrama se detallan cómo interactúan los usuarios con nuestro sistema de software y con sistemas externos. Para este caso, con el servicio de correos de microsft Excahnge, Sistema de pasarela de pago y el Sistema de envío.
