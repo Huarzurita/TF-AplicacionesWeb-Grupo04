@@ -811,24 +811,69 @@ En esta sección se presentará el diagrama de componentes de nuestra arquitectu
 ---
 ---
 # CAPITULO 5: Product Implementation, Validation & Deployment
+## 5.1 Software Configuration Management
+### 5.1.1 Software Development Environment Configuration
+
+
+### 5.1.2 Source Code Management
+
+
+### 5.1.3 Source Code Style Guide & Conventions
+
+
+### 5.1.4 Software Deployment Configuration
 
 
 ## 5.2 Landing Page, Services & Applications Implementation
+En esta sección se explica y evidencia el proceso de implementación, pruebas,
+documentación y despliegue del Landing Page, Web Services y Frontend Web
+Applications.
+
 ### 5.2.1 Sprint 1
+En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el Sprint 1.
+
 #### 5.2.1.1 Sprint Planning 1
+En esta sección se especifica los objetivos , historias de usuario y preparacion previa del sprint.
+
+| Sprint Planning Background         |                        |
+|------------------------------------|------------------------|
+| Date                               | 3/09/2023              |
+| Time                               | 18:12                  |
+| Location                           | Google Meet            |
+| Prepared By                        | Miguel Huarcaya Chavez |
+| Attendees (to planning meeting)    | Sanchez Arenas, Manuel Angel - Patrocinio Escalante, Leonardo Walt - Jhan Clinton, Antonio Salazar - Llamozas Diaz, Edson Diego |
+| Sprint n – 1 Review Summary        | -                      |
+| Sprint n – 1 Retrospective Summary | -                      |
+
+
+
+
+| Sprint Goal & user Stories |            |
+|----------------------------|------------|
+| Sprint n Goal              | Terminar con el Landing Page del aplicativo |
+| Sprint n Velocity          | 20 |
+| Sum of Story Points        | 20|
 
 
 #### 5.2.1.2 Sprint Backlog 1
+En esta primera iteración, tuvimos como objetivo implementar el diseño de nuestro LandingPage mediante la utilización de WebStorm.
+
+| User Story                  |   |   Work - Item / Task     |   |   |  |   |    |
+|----|------------|---|---|--|---|----|---|
+| ID | Title       | id | Title      |  Description     | Estimation (Hours)    | Assigned To |  Status (Todo/In-Process/To-Review/Done)  |
+|    |             |    |            |                  |                       |             |                                           |
 
 
 #### 5.2.1.3 Development Evidence for Sprint Review
+En esta sección se presentan los avances de implementación con relación a los productos desarrollados en el presente Sprint. La implementación que se desarrollo fue la primera version del Landing Page, se implementaron ramas a partir de la rama develop para que cada integrante pueda codificar su parte del Landing Page, se implementaron la navbar, la sección know us, la sección services, goals, hero and footer. Con ello completamos el primer sprint de implementación
+
 
 
 #### 5.2.1.4 Testing Suite Evidence for Sprint Review
-
+No se desarrolló en este sprint, pues en esta parte se presentarán los Unit Tests, Integration Tests y Acceptance Tests automatizados, para Web Services.
 
 #### 5.2.1.5 Execution Evidence for Sprint Review
-
+No se desarrolló en este sprint, pues en esta sección presentaremos la relación de Endpoints documentados con OpenAPI, relacionados con el alcance del Sprint y con web Applications
 
 #### 5.2.1.6 Services Documentation Evidence for Sprint Review
 
