@@ -60,11 +60,11 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe -->
 # Contenido
 [Capítulo I: Introducción](#CAPITULO-1:-Introducción)
 
-[1.1. Startup Profile]()
+[1.1. Startup Profile](#1.1.-Startup-Profile)
 
-[1.1.1. Descripción de la Startup]()
+[1.1.1. Descripción de la Startup](#1.1.1.-Descripción-de-la-Startup)
 
-[1.1.2. Perfiles de integrantes del equipo]()
+[1.1.2. Perfiles de integrantes del equipo](#1.1.2-PERFILES-DE-INTEGRANTES)
 
 [1.2. Solution Profile]()
 
@@ -226,6 +226,19 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe -->
 ---
 ---
 # Student Outcome
+El curso contribuye al cumplimiento del Student Outcome ABET:
+ABET – EAC - Student Outcome 5
+Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros
+juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
+establecen objetivos, planifican tareas y cumplen objetivos.
+En el siguiente cuadro se describe las acciones realizadas y enunciados de
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
+del ABET – EAC - Student Outcome 5
+
+| Criterio especifico   | Acciones Realizadas     | Conclusiones |
+|----|------------|-----|
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software | Miguel Huarcaya Chavez: <br> TB1:  Capítulos del Informe: 4.6; 4.7; 4.8; 5.2 y Caratula | En el momento de elaboración, cada integrante se centró en desarrollar una de las 5W, explicando el Who, When, Where, What, Why para plantear la gestión de nuestro proyecto. Luego, se elaboraron las 2H How y How Much, en la cual se realizó una investigación previa de la problemática y de nuestra solución RSL.<br>Mediante la lluvia de ideas para el planteamiento de las User Stories, el equipo participo con eficiencia y objetividad para plantear requisitos para la propuesta de solución. <br>El Product Backlog nos permitirá realizar el mantenimiento del producto, así como la verificación de este. <br>Diseñamos el General Style Guidelines con la principal necesidad de poder tener un marco común de desarrollo para que el equipo tenga una guía para la implementación de los diseños. <br>Diseñamos los mock-ups y wireframes para que cumplan con los principios y heurísticas de usabilidad, IA y diseño.<br>Se realizo el prototipo en la herramienta figma, donde se muestran los flujos principales que sucederán en la aplicación.<br>Se realizo el Team Collaboration Insights en GitHub, donde se puede visualizar todo el flujo de trabajo del equipo , en el proceso de desarrollo del Landing Page de RSL.|
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | Miguel Huarcaya Chavez: <br> TB1:  Capítulos del Informe: 4.6; 4.7; 4.8; 5.2 y Caratula | Con el planteamiento de los segmentos objetivos se conoce a nuestro público objetivo. <br>Con el estudio de mercado, identificamos a las empresas competidoras con productos similares. Con ello, el equipo puede tomar sus debilidades y mejorarlas para ofrecer un producto diferente y único. <br>Se diseñaron los wireframes y mock-ups del Landing page con el fin de establecer la estructura y el diseño básico de nuestra solución a la problemática planteada más adelante, gracias a figma. <br>Se realizo la implementación del Landing page en su primera version relacionado al sprint 1 y sprint 2 relacionado a Web Application, para ello empleamos la herramienta Webstorm. |
 
 ---
 ---
@@ -240,11 +253,19 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe -->
 
 ### 1.1.2 PERFILES DE INTEGRANTES
 * Antonio Salazar, Jhan Clinton
-    ![foto antonio](https://drive.google.com/uc?export=view&id=1ohMW70qwopq_Bo0zZAMoUKDlAAnOh56z)
+    <p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1ohMW70qwopq_Bo0zZAMoUKDlAAnOh56z" alt="Foto Manuel">
+    </p>
+    
+   
     * *Ing. de Software*
     * **Acerca de:** Actualmente, soy estudiante de ingeniería de software. Me apasiona la tecnología y el desarrollo de soluciones innovadoras para mejorar la vida de las personas. Estoy emocionado de seguir aprendiendo y creciendo en este campo emocionante y en constante evolución.
 * Sanchez Arenas, Manuel Angel
-    ![foto manuel](https://drive.google.com/uc?export=view&id=1D59uWiX-A_YDMzjhjK4tt7n_RkUrMUyx)
+    <p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1D59uWiX-A_YDMzjhjK4tt7n_RkUrMUyx" alt="Foto Manuel">
+    </p>
+    
+    
     * *Ing. de Software*
     * **Acerca de:** Soy una persona responsable.
     Puedo ayudar al equipo a escribir y presentar ideas
@@ -263,6 +284,13 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe -->
     * **Acerca de:** Me considero una persona responsable y
     optimista, capaz de trabajar en equipo. Me gusta jugar videojuegos
     y practicar algunos deportes como el fútbol o atletismo.
+* Miguel Huarcaya Chavez
+    <p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1gGq589S_vEOJdNiiUueiK0ctvWXDH5os" alt="Foto Miguel">
+    </p>
+
+  * Ing. Software
+  *  **Acerca de:** Estoy en 6to cilo de la carrera, cuento con conocimientos del tema a desarrollar de este proyecto además de conocimientos tecnicos que ayudará al desarrollo dle mismo.
 ## *1.2 SOLUTION PROFILE*
 NOMBRE DEL PRODUCTO: RSL MOBILE
 ### 1.2.1 ANTECEDENTES Y PROBLEMÁTICA
