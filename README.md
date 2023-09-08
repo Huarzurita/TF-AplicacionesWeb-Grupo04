@@ -610,13 +610,6 @@ Link: [https://youtu.be/7rK2o9sNi1s](https://youtu.be/7rK2o9sNi1s)
 |THINKING|Me pregunto cuantos productos pediran|Espero tener prendas suficientes| Espero que llegue el repartidor a tiempo|
 |FEELING| Preocupado por si entregaré la prenda a tiempo | Nervioso por saber si tengo suficientes prendas | Satisfecho por realizar una buena venta |
 
-### User Persona 03 – Repartidor
-
-| PHASES | RECIBIR ORDEN DE ENVÍO | LLEGAR A LA DIRECCIÓN DE ENTREGA | ENTREGAR PEDIDO |
-|--------|------------------------------|-------------------------------------|----------------|
-|DOING|Recibir orden de envío y prepararla| Recoger la prenda y dirigirse a la zona de entrega | Realizar la entrega |
-|THINKING|Me pregunto si tendra la prenda| Espero Espero encontrar la prenda| Espero sea la prenda correcta |
-|FEELING| Preocupado por saber si llegaré a la hora indicada | Nervioso por saber si habra prendas suficientes | Satisfecho por realizar una buena entrega |
 
 ## 3.2 User Stories
 ### EP01: GESTIÓN DE REGISTROS - ABASTECIMIENTOS:
@@ -687,6 +680,10 @@ aplicativo son usuarios que fallan la prueba básica de ingreso.
 Debe mostrar notificaciones de los clientes que tengan reportes para poder bloquear
 esas cuentas.
 
+### HU07
+Debe mostrarse uina pagina de presentacion hacia los usuarios insitandolos a unirse.
+
+---
 ---
 ---
 # CAPITULO 4: Product Desing
@@ -979,32 +976,50 @@ En esta sección se especifica los objetivos , historias de usuario y preparacio
 #### 5.2.1.2 Sprint Backlog 1
 En esta primera iteración, tuvimos como objetivo implementar el diseño de nuestro LandingPage mediante la utilización de WebStorm.
 
-| User Story                  |   |   Work - Item / Task     |   |   |  |   |    |
-|----|------------|---|---|--|---|----|---|
-| ID | Title       | id | Title      |  Description     | Estimation (Hours)    | Assigned To |  Status (Todo/In-Process/To-Review/Done)  |
-|    |             |    |            |                  |                       |             |                                           |
+![spring Backlog](https://drive.google.com/uc?export=view&id=1d-KlluhLaGAPbi_aR0-3ZSH4Z_UYXn6L)
 
 
 #### 5.2.1.3 Development Evidence for Sprint Review
 En esta sección se presentan los avances de implementación con relación a los productos desarrollados en el presente Sprint. La implementación que se desarrollo fue la primera version del Landing Page, se implementaron ramas a partir de la rama develop para que cada integrante pueda codificar su parte del Landing Page, se implementaron la navbar, la sección know us, la sección services, goals, hero and footer. Con ello completamos el primer sprint de implementación
 
-
+![Deployment Evidence](https://drive.google.com/uc?export=view&id=1isGVyue4cwv5miMgRl75b3HpK0xbKuhB)
 
 #### 5.2.1.4 Testing Suite Evidence for Sprint Review
 No se desarrolló en este sprint, pues en esta parte se presentarán los Unit Tests, Integration Tests y Acceptance Tests automatizados, para Web Services.
 
 #### 5.2.1.5 Execution Evidence for Sprint Review
-No se desarrolló en este sprint, pues en esta sección presentaremos la relación de Endpoints documentados con OpenAPI, relacionados con el alcance del Sprint y con web Applications
+![Landing page](https://drive.google.com/uc?export=view&id=1jAGJmtffn2pFnM1Y8hlCfXnzTBQ-FVA3)
 
 #### 5.2.1.6 Services Documentation Evidence for Sprint Review
-
+No se desarrolló en este sprint, pues en esta sección presentaremos la relación de Endpoints documentados con OpenAPI, relacionados con el alcance del Sprint y con web Applications.
 
 #### 5.2.1.7 Software Deployment Evidence for Sprint Review
+Como ya se ha mencionado, la gestión de nuestro código fuente se realizará a través de GitHub.
+Se utilizo Netlify para el despliegue del landing page:
+Link: https://adorable-chebakia-7a6122.netlify.app/
+
+Como el Landing page de la pagina es relativamente pequeño, solo 2 integrantes se encargaron de la implementacion.
+
+Se utilizo Las siguientees tecnologias:
+* HTML5
+* CSS3
+* JavaScript
+
+Además. Para la gestion del codigo se utiliuzo un repostorio en Gi Hub
+Link: https://github.com/Huarzurita/TF-AplicacionesWeb-Grupo04.git
 
 
 #### 5.2.1.8 Team Collaboration Insights during Sprint
+![Deployment Evidence](https://drive.google.com/uc?export=view&id=1isGVyue4cwv5miMgRl75b3HpK0xbKuhB)
+![Deployment Evidence](https://drive.google.com/uc?export=view&id=17mCEKhzUmp5FZfEz_xG7r5YkFifD3NNm)
 
 
+# Anexos
+
+Link repositorio: https://github.com/Huarzurita/TF-AplicacionesWeb-Grupo04.git
+Link Landing page: https://adorable-chebakia-7a6122.netlify.app/
+
+Video Stream TB1: 
 ---
 ---
 ---
