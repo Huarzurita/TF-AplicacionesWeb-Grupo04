@@ -1087,10 +1087,11 @@ Link: https://github.com/Huarzurita/TF-AplicacionesWeb-Grupo04.git
 
 # Anexos
 
-Link repositorio: https://github.com/Huarzurita/TF-AplicacionesWeb-Grupo04.git
-Link Landing page: https://adorable-chebakia-7a6122.netlify.app/
+Link repositorio: [Link GitHub](https://github.com/Huarzurita/TF-AplicacionesWeb-Grupo04.git)
 
-Video Stream TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/ESDAY_5Ch9RBnVD7JQhVJZ4BsGJ_BMcXMLikhfodsUok6A?e=l0arWx
+Link Landing page: [Link Landing page](https://adorable-chebakia-7a6122.netlify.app/)
+
+Video Stream TB1: [Link video TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/ESDAY_5Ch9RBnVD7JQhVJZ4BsGJ_BMcXMLikhfodsUok6A?e=l0arWx)
 ---
 ---
 ---
