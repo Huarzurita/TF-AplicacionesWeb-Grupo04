@@ -947,10 +947,9 @@ aplicaciones.
 GitHub nos provee de una fuente donde almacenar y verificar los cambios en nuestro
 código de una manera transparente. Además, nos facilita el poder volver atrás si
 ocurre un error en la aplicación.
-Link: [https://github.com/JhonelRios/ihc-2021-landingpage]
+Link: [https://github.com/Huarzurita/TF-AplicacionesWeb-Grupo04.git]
 
 #### Trello:
-[www.RSL.com]
 37Es un software de administración de proyectos a través de una interfaz web o móvil.
 Optamos por esta aplicación ya que nos permite designar tareas a cada integrante
 del grupo de una manera sencilla y nos permite visualizar en qué estado se
@@ -995,7 +994,6 @@ Las principales reglas son:
 * Después y antes de utilizar un operador matemático debemos agregar
 espacios.
 * Las variables deben de tener nombres que las identifiquen claramente.
-[Link]: (https://github.com/airbnb/javascript)
 
 ### 5.1.4 Software Deployment Configuration
 
