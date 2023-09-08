@@ -593,7 +593,100 @@ Link: [https://youtu.be/7rK2o9sNi1s](https://youtu.be/7rK2o9sNi1s)
 ---
 # CAPITULO 3: Requirements Specification
 
----
+## 3.1 To-be Scenario Mapping
+### User Persona 01 – Cliente
+
+| PHASES | ELECCIÓN DE PRENDA A COMPRAR | REVISAR DISPONIBILIDAD DE LA PRENDA | REALIZAR COMPRA|
+|--------|------------------------------|-------------------------------------|----------------|
+|DOING|Buscar en la aplicación RSL las prendas|Utilizar las funciones para seleccionar las prendas indicadas | Seleccionar la prenda y comprarla|
+|THINKING|Me pregunto si podré conseguir las prendas|Espero encontrar las prendas lo más baratas posibles| Espero que se entreguen las prendas|
+|FEELING| Preocupado por encontrar las prendas | Nervioso por saber el precio de las prendas | Emocionado por que lleguen las prendas |
+
+### User Persona 02 – VENDEDOR
+
+| PHASES | PROCESAR PRENDA A CLIENTE | BUSCAR PRENDA DE CLIENTE | ENTREGAR PEDIDO |
+|--------|------------------------------|-------------------------------------|----------------|
+|DOING|Procesar el pedido de la prenda por la app RSL| Me dirijo a la dirección del cliente | Entrego el pedido |
+|THINKING|Me pregunto cuantos productos pediran|Espero tener prendas suficientes| Espero que llegue el repartidor a tiempo|
+|FEELING| Preocupado por si entregaré la prenda a tiempo | Nervioso por saber si tengo suficientes prendas | Satisfecho por realizar una buena venta |
+
+### User Persona 03 – Repartidor
+
+| PHASES | RECIBIR ORDEN DE ENVÍO | LLEGAR A LA DIRECCIÓN DE ENTREGA | ENTREGAR PEDIDO |
+|--------|------------------------------|-------------------------------------|----------------|
+|DOING|Recibir orden de envío y prepararla| Recoger la prenda y dirigirse a la zona de entrega | Realizar la entrega |
+|THINKING|Me pregunto si tendra la prenda| Espero Espero encontrar la prenda| Espero sea la prenda correcta |
+|FEELING| Preocupado por saber si llegaré a la hora indicada | Nervioso por saber si habra prendas suficientes | Satisfecho por realizar una buena entrega |
+
+## 3.2 User Stories
+### EP01: GESTIÓN DE REGISTROS - ABASTECIMIENTOS:
+Como dueño de una aplicación que se encarga de categorizar las prendas de ropa
+que publican los usuarios, quisiera agregar a mi aplicación algunos proveedores de
+productos para que tengan productos constantemente anunciándose.
+
+####  HU01: Confirmación de Registro
+Como dueño de una aplicación que se encarga de categorizar las prendas de
+ropa que publican los usuarios, quiero recibir una confirmación de registro del
+usuario.
+
+####  HU02: Aviso de Error
+Como dueño de una aplicación que se encarga de categorizar las prendas de
+ropa que publican los usuarios, quisiera recibir un aviso que me indique
+cuando no se completa de manera exitosa un registro en la aplicación.
+
+####  HU03: Retiro de negocios de la aplicación
+Como jefe del área de ventas, quiero notificar y retirar de la aplicación a
+aquellos negocios que vayan en contra de las políticas de la aplicación.
+EP02: GESTIÓN DE REGISTROS - USUARIOS:
+Como dueño de una aplicación que se encarga de categorizar las prendas de ropa
+que publican los usuarios, quisiera agregar a mi aplicación algunos proveedores de
+productos para que tengan productos constantemente anunciándose.
+
+####  HU04: Confirmación de Registro de perfil
+Como dueño de una aplicación que se encarga de categorizar las prendas de
+ropa que publican los usuarios, quiero recibir una confirmación de registro del
+usuario.
+
+####  HU05: Verificación de no ser un robot
+Como dueño de una aplicación que se encarga de categorizar las prendas de
+ropa que publican los usuarios, quisiera recibir un aviso que me indique
+cuando las cuentas que intentan ingresar al aplicativo son usuarios que fallan
+la prueba básica de ingreso.
+ HU06: Bloquear a clientes indeseables
+Como jefe del área de ventas, quiero recibir notificación de los clientes que
+tengan reportes para poder bloquear esas cuentas
+
+## 3.3 Impact Mapping
+
+<p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1Z1VK924qxsI7ccOi7Dxffa-j2VQS9wr0" alt="Web Applications Wireflow Diagrams">
+  </p>
+
+
+## 3.4 Product Backlog
+
+### HU01
+Debe mostrar una confirmación de registro del usuario.
+
+### HU02
+Debe mostrar un aviso que indique cuando no se completa de manera exitosa un
+registro en la aplicación.
+
+### HU03
+Debe permitir retirar de la aplicación a aquellos negocios que vayan en contra de las
+políticas de la aplicación.
+
+### HU04
+Debe mostrar una confirmación de registro del usuario.
+
+### HU05
+Debe mostrar un aviso que indique cuando las cuentas que intentan ingresar al
+aplicativo son usuarios que fallan la prueba básica de ingreso.
+
+### HU06
+Debe mostrar notificaciones de los clientes que tengan reportes para poder bloquear
+esas cuentas.
+
 ---
 ---
 # CAPITULO 4: Product Desing
