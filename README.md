@@ -935,15 +935,88 @@ En esta sección se presentará el diagrama de componentes de nuestra arquitectu
 ## 5.1 Software Configuration Management
 ### 5.1.1 Software Development Environment Configuration
 
+#### Figma:
+Es un programa utilizado para el diseño de productos. Sobretodo es ideal para la
+creación de interfaces de usuario, tanto web como móvil. Además, también permite
+la creación de prototipos. Todas estas funcionalidades a través de su aplicación web.
+Decidimos utilizar esta herramienta ya que nos permite trabajar paralelamente sobre
+el mismo archivo, agilizando el tiempo de creación de las interfaces y prototipos.
+Link: [https://www.figma.com/file/lfmNhtNWXtErN7awQ7emJw/Untitled?nodeid=0%3A1]
+
+#### GitHub:
+Es un repositorio online de código de aplicaciones que se están desarrollando. La
+plataforma fue creada para que los desarrolladores suban el código de sus
+aplicaciones.
+GitHub nos provee de una fuente donde almacenar y verificar los cambios en nuestro
+código de una manera transparente. Además, nos facilita el poder volver atrás si
+ocurre un error en la aplicación.
+Link: [https://github.com/JhonelRios/ihc-2021-landingpage]
+
+#### Trello:
+[www.RSL.com]
+37Es un software de administración de proyectos a través de una interfaz web o móvil.
+Optamos por esta aplicación ya que nos permite designar tareas a cada integrante
+del grupo de una manera sencilla y nos permite visualizar en qué estado se
+encuentra dicha tarea.
 
 ### 5.1.2 Source Code Management
+En nuestro proyecto aplicaremos GitFlow de la siguiente manera:
+* Main: La rama principal donde se encontrará la aplicación totalmente
+funcional. A esta rama se le hará merge de la rama de Develop.
+* Develop: En esta rama nos centraremos en probar nuevas funcionalidades y
+asegurarnos de que no generan errores con la aplicación actual.
+* Feature: Pueden existir varias ramas de este tipo, donde cada una de ellas se
+encarga de una funcionalidad especifica de la aplicación.
+
+<p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1PSgF4w7l3Hs99fN4_Q-DpLkAdwaJNKNy" alt="Web Applications User Flow Diagrams">
+  </p>
+
+
 
 
 ### 5.1.3 Source Code Style Guide & Conventions
+#### HTML y CSS
+En el caso de estas 2 tecnologías decidimos utilizar la guía de estilos que provee
+Google, ya que consideramos que es sencilla de entender y mantiene una buena
+legibilidad en el código.
+Las principales reglas que da son:
+* Usar una indentación de 2 espacios.
+* Solo usar letras minúsculas.
+* Remover espacios sobrantes.
+* Agregar comentarios al código cuando sea necesario.
 
+[Link]: (https://google.github.io/styleguide/htmlcssguide.html)
+
+#### Javascript
+
+En el caso de JavaScript optamos por seguir la guía de estilos de AirBnB, ya que es
+de las más utilizadas y recomendadas en el desarrollo frontend.
+Las principales reglas son:
+* Utilizar punto y coma al final de cada bloque de código.
+* Agregar comentarios al código cuando sea necesario.
+* Después y antes de utilizar un operador matemático debemos agregar
+espacios.
+* Las variables deben de tener nombres que las identifiquen claramente.
+[Link]: (https://github.com/airbnb/javascript)
 
 ### 5.1.4 Software Deployment Configuration
 
+#### SRPING BACKLOG
+#####  Sprint Backlog 1
+
+| **SPRINT 1:** Implementar la interfaz de la landing page, así como las páginas de login y registro |
+|----------------------------------------------------------------------------------------------------|
+
+| Historia de Usuario | Tareas                   | Estado     |
+|---------------------|---------------------------|------------|
+| HU01: Registro de usuarios | Elaborar prototipo | Finalizado |
+|                           | Implementar landing page | Finalizado |
+|                           | Implementar página de registro | En proceso |
+| HU02: Aviso de Error      | Validar email y contraseña | En proceso |
+|                           | Implementar aviso de error | Pendiente |
+| HU03: Confirmación de registro de perfil | Mostrar mensaje de confirmación | En proceso |
+|                                       | Almacenar email y contraseña | Pendiente |
 
 ## 5.2 Landing Page, Services & Applications Implementation
 En esta sección se explica y evidencia el proceso de implementación, pruebas,
