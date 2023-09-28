@@ -617,28 +617,377 @@ Como dueño de una aplicación que se encarga de categorizar las prendas de ropa
 que publican los usuarios, quisiera agregar a mi aplicación algunos proveedores de
 productos para que tengan productos constantemente anunciándose.
 
+<table style="border: 1pt solid #000000;">
+  <tbody>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>ID</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>US01</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Owner</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Leonardo Patrocinio</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Título US:</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="3"><strong>Gestión de Registros - Abastecimientos</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Puntos de Estimación:</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>3</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Sprint:</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>1</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4"><strong>Descripción US</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4">
+        Como dueño de una aplicación dedicada a categorizar las prendas de ropa publicadas por los usuarios, deseo poder incorporar proveedores de productos en mi aplicación. Esto permitirá que dichos proveedores puedan anunciar sus productos de forma continua en la plataforma.
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4"><strong>Criterio de Aceptación</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Escenario N°1</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="3"><strong>Registro de Proveedores</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4">
+        <p>Dado que soy el administrador de la aplicación.</p>
+        <p>Cuando accedo a la sección de administración de proveedores.</p>
+        <p>Entonces tengo la capacidad de registrar nuevos proveedores.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Escenario N°2</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="3"><strong>Agregar Productos a Proveedores</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4">
+        <p>Dado que soy un proveedor registrado en la plataforma.</p>
+        <p>Cuando inicio sesión en mi cuenta de proveedor.</p>
+        <p>Entonces puedo agregar nuevos productos a mi catálogo para ser anunciados.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 ####  HU01: Confirmación de Registro
 Como dueño de una aplicación que se encarga de categorizar las prendas de
 ropa que publican los usuarios, quiero recibir una confirmación de registro del
 usuario.
+
+<table style="border: 1pt solid #000000;">
+  <tbody>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>ID</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>US01</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Owner</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Leonardo Patrocinio</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Título US:</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="3"><strong> Titulo del user storie   </strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Puntos de Estimación:</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>3</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Sprint:</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>1</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4"><strong>Descripción US</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4">
+        <!-- Tu descripción va aquí -->
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4"><strong>Criterio de Aceptación</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Escenario N°1</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="3"><strong>   titulo del escenario...             </strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4">
+        <p>Dado que...     </p>
+        <p>Cuando... </p>
+        <p>Y...     </p>
+        <p>Entonces        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Escenario N°2</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="3"><strong>      titulo del escenario...            </strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4">
+        <p>Dado que </p>
+        <p>Cuando  </p>
+        <p>Y   </p>
+        <p>Entonces    </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ####  HU02: Aviso de Error
 Como dueño de una aplicación que se encarga de categorizar las prendas de
 ropa que publican los usuarios, quisiera recibir un aviso que me indique
 cuando no se completa de manera exitosa un registro en la aplicación.
 
+<table style="border: 1pt solid #000000;">
+  <tbody>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>ID</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>US01</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Owner</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Leonardo Patrocinio</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Título US:</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="3"><strong>  Titulo del user storie   </strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Puntos de Estimación:</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>3</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Sprint:</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>1</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4"><strong>Descripción US</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4">
+        <!-- Tu descripción va aquí -->
+        Descripcion.....
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4"><strong>Criterio de Aceptación</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Escenario N°1</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="3"><strong>    titulo del escenario...               </strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4">
+        <p>Dado que...     </p>
+        <p>Cuando... </p>
+        <p>Y...     </p>
+        <p>Entonces        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Escenario N°2</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="3"><strong>    titulo del escenario...              </strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4">
+        <p>Dado que </p>
+        <p>Cuando  </p>
+        <p>Y   </p>
+        <p>Entonces    </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 ####  HU03: Retiro de negocios de la aplicación
 Como jefe del área de ventas, quiero notificar y retirar de la aplicación a
 aquellos negocios que vayan en contra de las políticas de la aplicación.
+
+<table style="border: 1pt solid #000000;">
+  <tbody>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>ID</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>US01</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Owner</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Leonardo Patrocinio</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Título US:</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="3"><strong>  Titulo del user storie  </strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Puntos de Estimación:</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>3</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Sprint:</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>1</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4"><strong>Descripción US</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4">
+        <!-- Tu descripción va aquí -->
+        Descripcion.....
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4"><strong>Criterio de Aceptación</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Escenario N°1</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="3"><strong>   titulo del escenario...                </strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4">
+        <p>Dado que...     </p>
+        <p>Cuando... </p>
+        <p>Y...     </p>
+        <p>Entonces        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Escenario N°2</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="3"><strong>   titulo del escenario...               </strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4">
+        <p>Dado que </p>
+        <p>Cuando  </p>
+        <p>Y   </p>
+        <p>Entonces    </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 EP02: GESTIÓN DE REGISTROS - USUARIOS:
 Como dueño de una aplicación que se encarga de categorizar las prendas de ropa
 que publican los usuarios, quisiera agregar a mi aplicación algunos proveedores de
 productos para que tengan productos constantemente anunciándose.
 
+<table style="border: 1pt solid #000000;">
+  <tbody>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>ID</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>US01</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Owner</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Leonardo Patrocinio</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Título US:</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="3"><strong>  Titulo del user storie      </strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Puntos de Estimación:</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>3</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Sprint:</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>1</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4"><strong>Descripción US</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4">
+        <!-- Tu descripción va aquí -->
+        Descripcion.....
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4"><strong>Criterio de Aceptación</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Escenario N°1</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="3"><strong>     titulo del escenario...              </strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4">
+        <p>Dado que...     </p>
+        <p>Cuando... </p>
+        <p>Y...     </p>
+        <p>Entonces        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Escenario N°2</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="3"><strong>   titulo del escenario...               </strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4">
+        <p>Dado que </p>
+        <p>Cuando  </p>
+        <p>Y   </p>
+        <p>Entonces    </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 ####  HU04: Confirmación de Registro de perfil
 Como dueño de una aplicación que se encarga de categorizar las prendas de
 ropa que publican los usuarios, quiero recibir una confirmación de registro del
 usuario.
+
+<table style="border: 1pt solid #000000;">
+  <tbody>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>ID</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>US01</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Owner</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Leonardo Patrocinio</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Título US:</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="3"><strong>  Titulo del user storie        </strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Puntos de Estimación:</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>3</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Sprint:</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>1</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4"><strong>Descripción US</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4">
+        <!-- Tu descripción va aquí -->
+        Descripcion.....
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4"><strong>Criterio de Aceptación</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Escenario N°1</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="3"><strong>    titulo del escenario...               </strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4">
+        <p>Dado que...     </p>
+        <p>Cuando... </p>
+        <p>Y...     </p>
+        <p>Entonces        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Escenario N°2</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="3"><strong>     titulo del escenario...             </strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4">
+        <p>Dado que </p>
+        <p>Cuando  </p>
+        <p>Y   </p>
+        <p>Entonces    </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 ####  HU05: Verificación de no ser un robot
 Como dueño de una aplicación que se encarga de categorizar las prendas de
@@ -649,6 +998,65 @@ la prueba básica de ingreso.
 Como jefe del área de ventas, quiero recibir notificación de los clientes que
 tengan reportes para poder bloquear esas cuentas
 
+
+<table style="border: 1pt solid #000000;">
+  <tbody>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>ID</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>US01</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Owner</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Leonardo Patrocinio</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Título US:</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="3"><strong> Titulo del user storie  </strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Puntos de Estimación:</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>3</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Sprint:</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>1</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4"><strong>Descripción US</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4">
+        <!-- Tu descripción va aquí -->
+        Descripcion.....
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4"><strong>Criterio de Aceptación</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Escenario N°1</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="3"><strong>                </strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4">
+        <p>Dado que...     </p>
+        <p>Cuando... </p>
+        <p>Y...     </p>
+        <p>Entonces        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Escenario N°2</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="3"><strong>       titulo del escenario...           </strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;" colspan="4">
+        <p>Dado que </p>
+        <p>Cuando  </p>
+        <p>Y   </p>
+        <p>Entonces    </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## 3.3 Impact Mapping
 
 <p align="center">
@@ -657,6 +1065,63 @@ tengan reportes para poder bloquear esas cuentas
 
 
 ## 3.4 Product Backlog
+
+<table style="border: 1pt solid #000000;">
+  <tbody>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong># Orden</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>User Story Id</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Description</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>Story Points</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;">1</td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>US01</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"> Como… deseo… para….     </td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;">3</td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;">2</td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>US02</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"> Como… deseo… para….  </td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;">5</td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;">3</td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>US03</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;">    Como… deseo… para….               </td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;">3</td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;">4</td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>US04</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;">Como… deseo… para….   </td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;">3</td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;">5</td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>US05</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"> Como… deseo… para…. </td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;">2</td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;">6</td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>US06</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;">  Como… deseo… para….  </td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;">4</td>
+    </tr>
+    <tr>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;">7</td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;"><strong>US06</strong></td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;">  Como… deseo… para….  </td>
+      <td style="border: 1pt solid #000000; padding: 5pt; vertical-align: top;">4</td>
+    </tr>  
+    <!-- Puedes continuar con más filas siguiendo el mismo formato -->
+  </tbody>
+</table>
+
+
+
 
 ### HU01
 Debe mostrar una confirmación de registro del usuario.
@@ -1087,11 +1552,10 @@ Link: https://github.com/Huarzurita/TF-AplicacionesWeb-Grupo04.git
 
 # Anexos
 
-Link repositorio: [Link GitHub](https://github.com/Huarzurita/TF-AplicacionesWeb-Grupo04.git)
+Link repositorio: https://github.com/Huarzurita/TF-AplicacionesWeb-Grupo04.git
+Link Landing page: https://adorable-chebakia-7a6122.netlify.app/
 
-Link Landing page: [Link Landing page](https://adorable-chebakia-7a6122.netlify.app/)
-
-Video Stream TB1: [Link video TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/ESDAY_5Ch9RBnVD7JQhVJZ4BsGJ_BMcXMLikhfodsUok6A?e=l0arWx)
+Video Stream TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/ESDAY_5Ch9RBnVD7JQhVJZ4BsGJ_BMcXMLikhfodsUok6A?e=l0arWx
 ---
 ---
 ---
